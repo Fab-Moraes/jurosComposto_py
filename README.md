@@ -6,11 +6,14 @@ Imagine que você está desenvolvendo um aplicativo para um banco que deseja cal
 # Entrada:
 A função deve receber os seguintes parâmetros:
 
-# valor_inicial: um número inteiro ou decimal representando o valor inicial do investimento.
+# valor_inicial
+um número inteiro ou decimal representando o valor inicial do investimento.
 
-# taxa_juros: um número decimal representando a taxa de juros anual. Por exemplo, se a taxa for de 5%, o valor passado será 0.05.
+# taxa_juros:
+um número decimal representando a taxa de juros anual. Por exemplo, se a taxa for de 5%, o valor passado será 0.05.
 
-# periodo: um número inteiro representando a quantidade de anos do investimento.
+# periodo:
+um número inteiro representando a quantidade de anos do investimento.
 
 # Saída:
 A função deve retornar o valor final do investimento após o período determinado, considerando os juros compostos. O valor final deve ser arredondado para duas casas decimais.
